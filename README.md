@@ -1,7 +1,7 @@
 ## Table of Contents
-1. [Project Description](#description)
-2. [Hardware Components](#components)
-3. [Installation](#istallation-steps)
+1. [Project Description](#project-description)
+2. [Hardware Components](#hardware-components)
+3. [Installation](#installation)
 4. [Schematics](#schematics)
 5. [Source Code](#source-code)
 6. [Links](#links)
