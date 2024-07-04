@@ -1,7 +1,5 @@
-### SmartTrafficLight-RPi2W
-
 ## Table of Contents
-1. [Description](#description)
+1. [Project Description](#description)
 2. [Hardware Components](#components)
 3. [Installation](#istallation-steps)
 4. [Schematics](#schematics)
@@ -21,9 +19,7 @@
 
 ![Proiect](static/1.jpg)
 
-For the project, I used the following hardware and software components:
-
-### Hardware Components:
+## Hardware Components
 - Raspberry Pi Zero 2W
 - Breadboard MB-102
 - USB - MicroUSB cable
@@ -33,7 +29,7 @@ For the project, I used the following hardware and software components:
 - Jumper wires
 - 220 ohm resistors, 1K ohm resistors
 
-### Installation Steps
+## Installation
 1. Installed Raspberry Pi OS using Raspberry Pi Imager.
 
 2. Connected to the Raspberry Pi using SSH:
@@ -79,7 +75,7 @@ For the project, I used the following hardware and software components:
    ```
 - Web interface created with Apache2
 
-![Web](static/2.png)
+![WebInterface](static/2.png)
 ---
 
 ---
@@ -284,8 +280,8 @@ if __name__ == '__main__':
 
 ## Links
 
-- Project repository: [Git Project](https://github.tuiasi.ro/SM24/1308A_3)
-- GitHub Documentation: [Documentation](https://github.tuiasi.ro/SM24/1308A_3/blob/main/Documentatie.md)
+- Project repository: [Git Project](https://github.com/Drexel7/SmartTrafficLight-RPi2W/blob/main/README.md)
+- GitHub Documentation: [Documentation](https://github.com/Drexel7/SmartTrafficLight-RPi2W/blob/main/README.md)
 - Project on hackster.io: [hackster.io](https://www.hackster.io/robertmafteigutui/traffic-light-4942ca)
 
 ## References
